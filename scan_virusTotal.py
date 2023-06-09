@@ -5,7 +5,7 @@ from time import sleep
 from virus_total_apis import PublicApi
 
 #Anadimos nuestra API_KEY de Virus-Total
-API_KEY = '4b5cf6cd61753f876ee093bc2070d5849f9f3e9fdd9ed5fdd28c9caafe867e76'
+API_KEY = ''
 api = PublicApi(API_KEY)
 
 def command(): #devuelve el stdout
