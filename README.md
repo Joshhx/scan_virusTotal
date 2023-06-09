@@ -11,7 +11,7 @@ $ pip install virustotal-api
 
 This python script scnning a URL or IP that was passed for stdout in line command. ex:
 
-Ejemplo de comando en terminal
+Ex:
 ```bash
 
 scan_virusTotal.py echo [URL][IP]
